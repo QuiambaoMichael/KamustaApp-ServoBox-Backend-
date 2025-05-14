@@ -1,1 +1,1 @@
-echo "# KamustaApp-ServoBox-Backend-"
+# KamustaApp-ServoBox-Backend-
